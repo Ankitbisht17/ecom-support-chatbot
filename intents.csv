@@ -1,0 +1,46 @@
+intent,text
+greet,hi
+greet,hello
+greet,hey
+greet,good morning
+greet,good evening
+
+goodbye,bye
+goodbye,thank you
+goodbye,thanks
+
+order_status,track my order
+order_status,where is my order
+order_status,order status
+order_status,track order ORD12345
+
+refund,how to get refund
+refund,refund policy
+refund,return my product
+refund,refund status
+
+shipping,shipping charges
+shipping,delivery time
+shipping,international shipping
+shipping,when will my order arrive
+
+payment,payment options
+payment,upi available
+payment,cash on delivery
+payment,credit card payment
+
+cancel_order,cancel my order
+cancel_order,i want to cancel my order
+cancel_order,order cancellation
+
+complaint,i want to register a complaint
+complaint,product is damaged
+complaint,bad product received
+
+contact,how to contact customer care
+contact,customer support number
+contact,help desk
+
+offers,ongoing offers
+offers,discounts available
+offers,today deals
