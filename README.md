@@ -1,4 +1,4 @@
-\# 🤖 AI E-Commerce Support Chatbot
+\# AI E-Commerce Support Chatbot
 
 
 
@@ -12,7 +12,7 @@ The bot can answer customer queries about \*\*order tracking, refunds, shipping 
 
 
 
-\## 🌟 Features
+\## Features
 
 
 
@@ -52,7 +52,7 @@ The bot can answer customer queries about \*\*order tracking, refunds, shipping 
 
 
 
-\## 🛠 Tech Stack
+\## Tech Stack
 
 
 
@@ -72,7 +72,7 @@ The bot can answer customer queries about \*\*order tracking, refunds, shipping 
 
 
 
-\## 📂 Project Structure
+\## Project Structure
 
 
 
@@ -100,7 +100,7 @@ ecom-support-chatbot/
 
 
 
-💬 Example Queries
+Example Queries
 
 Hi
 
